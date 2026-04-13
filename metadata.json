@@ -1,0 +1,5 @@
+{
+  "name": "AI Constellation Explorer",
+  "description": "An immersive force-directed graph visualization of the AI tool ecosystem, featuring interactive node connections, theme switching, and real-time inventory stats.",
+  "requestFramePermissions": []
+}
